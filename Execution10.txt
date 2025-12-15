@@ -1,0 +1,10 @@
+# Toplam Hesaplama Dongusu
+ATM AX 0
+ATM BX 1
+ATM CX 5
+ETIKET5:TOP AX BX
+TOP BX 1
+CIK CX 1
+DED ETIKET5
+YAZ AX
+SON

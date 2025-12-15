@@ -1,0 +1,11 @@
+# Carpim Tablosu - 5'in carpim tablosu
+ATM AX 1
+ATM BX 5
+ATM CX 10
+CARPIM: CRP BX AX
+YAZ BX
+ATM BX 5
+TOP AX 1
+CIK CX 1
+DED CARPIM
+SON

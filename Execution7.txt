@@ -1,0 +1,11 @@
+# CIK kullanarak ATM oncesi hesaplama
+ATM AX 50
+ATM BX 15
+CIK AX BX
+ATM CX AX
+YAZ CX
+ATM DX 100
+CIK DX 25
+ATM AX DX
+YAZ AX
+
